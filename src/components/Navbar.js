@@ -15,12 +15,14 @@ const Navbar = () => {
         <>
             <nav className="main-nav">
                 {/* 1st logo part  */}
-                <div className="logo">
+
+                <div className="logo" >
                     <h2>
                         <span>E</span>MID
                         <span>S</span>core
                     </h2>
                 </div>
+
 
                 {/* 2nd menu part  */}
                 <div
@@ -28,12 +30,15 @@ const Navbar = () => {
                         showMediaIcons ? "menu-link mobile-menu-link" : "menu-link"
                     }>
                     <ul>
-                        <li>
-                            LeaderBoard
-                        </li>
-                        <li>
-                            Check Score
-                        </li>
+                        <a href="/" style={{ textDecoration: "none" }}>
+                            <li>
+                                Home
+                            </li></a>
+
+                        <a href="/form" style={{ textDecoration: "none" }}>
+                            <li>
+                                Check Score
+                            </li></a>
 
                     </ul>
                 </div>

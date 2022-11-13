@@ -11,16 +11,14 @@ const Body = () => {
             <section class="headline">
                 <div className='headline-text'> Check your Social score now</div>
                 <div>
-                    <a href="/form" class="button1" rel="noopener">Check Now</a></div>
+                    <a href="/form" class="button1" rel="noopener" style={{ textDecoration: "none" }}>Check Now</a></div>
             </section>
 
 
 
 
 
-            {/* <Popup trigger={<button type='button ' className='whatsapp-button'><b>Upgrade to pro</b></button>} >
-                <div className='popup-content'>Popup content here !!</div>
-            </Popup> */}
+
         </div>
     )
 }

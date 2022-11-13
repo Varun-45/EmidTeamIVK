@@ -79,6 +79,9 @@ li {
 }
 
 /* ----------- Grid part ends ----------------- */
+.logo h2 {
+    text-decoration: none;
+}
 
 .logo h2 {
     font-size: 2.5rem;
@@ -94,14 +97,16 @@ li {
 }
 
 .menu-link ul li {
-    font-size: 2.5rem;
+    font-size: 2rem;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .menu-link ul li a {
     text-transform: capitalize;
     color: rgba(0, 0, 3, 0.8);
     transition: 0.5s;
+    text-decoration: none;
 }
 
 .menu-link ul li:hover>a {

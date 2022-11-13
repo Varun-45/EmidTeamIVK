@@ -6,7 +6,7 @@ const Pricing = () => {
             <div class="pricing-table">
                 <h2 class="pricing-table__header">- BASIC -</h2>
                 <h3 class="pricing-table__price">Rs.50</h3>
-                <a target="_blank" class="pricing-table__button" href="http://www.digimadmedia.com">
+                <a target="_blank" class="pricing-table__button" href="#">
                     Join Now!
                 </a>
                 <ul class="pricing-table__list">
@@ -21,7 +21,7 @@ const Pricing = () => {
             <div class="pricing-table">
                 <h2 class="pricing-table__header">- PREMIUM -</h2>
                 <h3 class="pricing-table__price">Rs.130</h3>
-                <a target="_blank" class="pricing-table__button" href="http://www.digimadmedia.com">
+                <a target="_blank" class="pricing-table__button" href="#">
                     Join Now!
                 </a>
                 <ul class="pricing-table__list">

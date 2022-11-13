@@ -41,7 +41,7 @@ h2 {
 /* SECTIONS */
 
 .headline {
-    background-image: linear-gradient(to right bottom, #0ec3de, #6cccee, #9ed5f7, #c5defb, #e3eafc, #eef0fc, #f7f7fd, #fefefe, #fefefe, #ffffff, #ffffff, #ffffff);
+    background-image: url('../images/banner.jpg');
     position: relative;
     width: 100%;
     height: 50vh;

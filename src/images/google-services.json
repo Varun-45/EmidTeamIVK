@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535209349524",
+    "firebase_url": "https://socialscoring-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "socialscoring",
+    "storage_bucket": "socialscoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535209349524:android:f6f15d708cd6ed644c3f81",
+        "android_client_info": {
+          "package_name": "com.shubham.emid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535209349524-qui7bs73cktdd3o1ivs5h8umtodpa5tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZlDLn6TjViS52fmWwbqKJUm_HqaKhF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535209349524-qui7bs73cktdd3o1ivs5h8umtodpa5tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -7,6 +7,7 @@ import Navbar from './components/Navbar';
 import Form from './components/Form';
 import { BrowserRouter as Router, useParams } from 'react-router-dom';
 import Footer from './components/Footer';
+import Database from './components/Database';
 
 function App() {
   return (
